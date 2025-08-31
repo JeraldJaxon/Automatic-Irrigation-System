@@ -77,6 +77,8 @@ void loop() {
 
 ## 📸 Project Setup  
   ![WhatsApp Image 2025-08-31 at 8 59 22 PM](https://github.com/user-attachments/assets/37e708b5-01d4-46d5-8be5-8a569152839d)
+  
+   https://github.com/user-attachments/assets/a09adab7-c6ae-41f4-bce0-830396c83394
 
 ---
 
