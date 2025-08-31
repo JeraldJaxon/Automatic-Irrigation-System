@@ -20,12 +20,13 @@ A simple **Arduino Nano based automatic irrigation system** that automatically w
 - **Mini Water Pump** (DC pump)  
 - **PCB dotted board**  
 - **Female connector for external power supply**  
-- Jumper wires, tubing, and container housing  
+- **Jumper wires, tubing, and container housing ** 
 
 ---
 
 ## ⚡ Circuit Diagram  
-📌 (Included in `images/` folder)  
+📌<img width="273" height="185" alt="image" src="https://github.com/user-attachments/assets/95901152-5e94-43b8-84d5-b27dc06f91c1" />
+
 
 Connections:  
 - Soil Moisture Sensor → Arduino A0 (Analog input)  
