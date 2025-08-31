@@ -75,21 +75,8 @@ void loop() {
 
 ---
 
-## 📂 Repository Structure  
-
-```
-Automatic-Irrigation-System/
-│── code/
-│   └── automatic_irrigation.ino   # Arduino source code
-│── images/
-│   └── circuit.png                # Circuit diagram
-│── README.md                      # Documentation
-```
-
----
-
 ## 📸 Project Setup  
-(Add your project setup photo in `images/` folder)  
+  ![WhatsApp Image 2025-08-31 at 8 59 22 PM](https://github.com/user-attachments/assets/37e708b5-01d4-46d5-8be5-8a569152839d)
 
 ---
 
@@ -101,5 +88,6 @@ Automatic-Irrigation-System/
 ---
 
 ## 👨‍💻 Author  
-Developed by [Your Name]  
-Final Year B.Tech ECE Project  
+Developed by Jerald Jaxon  
+Mini Project 
+Diploma in Electronics Engineering  
